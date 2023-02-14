@@ -1,7 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyzollman&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyzollman&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=zacharyzollman&color=7086d5&label=views+since+2022.01.20)
 <!--
 **zacharyzollman/zacharyzollman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
